@@ -1,0 +1,22 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "import/extensions": [
+      "error",
+      "always",
+      {
+        "mjs": "never"
+      }
+    ]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [
+          ".mjs",
+          ".json"
+        ]
+      }
+    }
+  }
+}

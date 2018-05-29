@@ -1,0 +1,47 @@
+{
+  "name": "eslint-config-airbnb-base-mjs",
+  "version": "0.0.0",
+  "description": "eslint-config-airbnb-base with .mjs extension replacing .js",
+  "main": "index.json",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amercier/eslint-config-airbnb-base-mjs"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "styleguide",
+    "mjs",
+    "ecmascript",
+    "es6",
+    "modules"
+  ],
+  "author": "Alex Mercier (pro.alexandre.mercier@gmail.com)",
+  "contributors": [
+    {
+      "name": "Alex Mercier",
+      "url": "https://amercier.com/"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amercier/eslint-config-airbnb-base-mjs/issues"
+  },
+  "homepage": "https://github.com/amercier/eslint-config-airbnb-base-mjs",
+  "engines": {
+    "node": ">= 4"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
