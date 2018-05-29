@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-airbnb-base-mjs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "eslint-config-airbnb-base with .mjs extension replacing .js",
   "main": "index.json",
   "scripts": {
