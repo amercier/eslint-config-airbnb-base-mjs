@@ -5,7 +5,7 @@ eslint-config-airbnb-base-mjs
 > with `.mjs` extension replacing `.js`
 
 [![Latest Stable Version](https://img.shields.io/npm/v/eslint-config-airbnb-base-mjs.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base-mjs)
-[![License](https://img.shields.io/npm/l/eslint-config-airbnb-base-mjs.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base-mjs)
+[![License](https://img.shields.io/npm/l/eslint-config-airbnb-base-mjs.svg)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/amercier/eslint-config-airbnb-base-mjs/master.svg)](https://travis-ci.org/amercier/eslint-config-airbnb-base-mjs)
 
 
