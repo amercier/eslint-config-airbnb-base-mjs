@@ -5,7 +5,8 @@
       "error",
       "ignorePackages",
       {
-        "mjs": "never"
+        "mjs": "never",
+        "jsx": "never"
       }
     ]
   },
@@ -14,6 +15,8 @@
       "node": {
         "extensions": [
           ".mjs",
+          ".js",
+          ".jsx",
           ".json"
         ]
       }
